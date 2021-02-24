@@ -1,0 +1,12 @@
+body{
+    font-family: 'Akaya Telivigala', cursive;
+    background-color: aqua;
+}
+
+table{
+    width: 500px;
+  }
+  
+  table,th{
+      text-align: center;
+  }
